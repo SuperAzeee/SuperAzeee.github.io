@@ -4,7 +4,7 @@ class Test1 extends Phaser.Scene {
     }
 
     preload(){
-        this.load.image('Title','assets/Title.png');
+        this.load.image('Title','assets/Title.jpg');
 
 
     }
